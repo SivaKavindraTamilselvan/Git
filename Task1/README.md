@@ -16,8 +16,11 @@ git
 COMMAND - git init
 
 Here a .git folder will be created
-Craete a git repository
+
+Create a git repository
+
 Repository is a folder which stores the commits,history,branches,files.
+
 Default branch is master - If needed we can change
 
 ## SCREENSHOTS
