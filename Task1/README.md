@@ -85,5 +85,9 @@ Task1 remote repo merged to main repo
 
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7550d80-7489-475b-8542-6249d6b40f5e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b02c6a0-00dd-4474-a077-1060713584ed" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/983730de-6ea7-4426-97d0-f47cd33ad43f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07271299-ccde-4249-b590-f31ae5201d58" />
 
 
