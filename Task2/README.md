@@ -15,9 +15,6 @@ Add secure files to gitignore file
 Add,commit and push to remote repo
 
 ## SCREENSHOTS
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f57cbca1-120d-4ff1-8929-59e70a9be5c0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/830ce3e5-d182-4339-89ce-442e3308c112" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c76608-ab97-4546-9f6c-562cbfae5e5c" />
-
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a411acda-74d2-4a14-a362-97b022fdf58d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9825b37-cf30-466c-80b2-2de59f401a38" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04837672-cb9b-438d-a22b-0d041150a88c" />
