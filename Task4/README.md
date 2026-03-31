@@ -298,13 +298,17 @@ Successfully simulated and resolved merge conflict using Git.
 
 
 ## SCREENSHOTS
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53b1d254-165b-4f0c-b28e-8c81eaadd84b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1381221e-b31c-4ae3-b86f-fafa156ae103" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/133f2558-bfa1-47d5-b208-8cf3d44b2b3e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/614e95f7-2dc9-4e8b-a69c-9ba15d4d995e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3201d33b-4ada-4723-83c8-705efd262e9d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4a32a5-8b57-4fee-b2aa-53dc96eaae21" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29183e31-1222-4c03-8a30-18cf6fc27473" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b7f86d4-b6d6-45a8-acf9-d5601bdb4c0f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3692f103-a1ae-4379-83bd-5c3651f5fa2e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cb9a7b9-b8f1-4a26-8b79-c1d1a3330e83" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e423c65-2e83-4f34-b92c-a0a6de509ef4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e503ad5-83ee-4a54-ab5f-b5ddabfb76dd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f756cd1-e687-4de8-9df3-5c89516101d8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81a899b7-a87b-4819-ae6d-77cc379814c0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7e71c40-0eab-4254-a528-af04a34e5a74" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6789af4a-ec4a-481b-a39e-a2b03f853602" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a926579-234d-4188-8305-1761e618c23f" />
 
 
 
