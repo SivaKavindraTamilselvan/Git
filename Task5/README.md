@@ -96,6 +96,12 @@ Squashing helps:
 
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8bf9dc3-fce1-48ab-a83d-2faf9c3bea19" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb13c0bf-94f5-4c03-b7ae-bf7b57a2194a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c3b1a7e-2dfc-4fb5-a622-c09dbfd58028" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e5dec65-099b-4ab2-a39d-d984930f4522" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2aa47e95-f556-4a00-a638-617418cc43cf" />
+
 
 
 
