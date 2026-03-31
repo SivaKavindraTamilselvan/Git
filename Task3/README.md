@@ -147,6 +147,12 @@ git reset --hard HEAD~1
 
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53b1d254-165b-4f0c-b28e-8c81eaadd84b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1381221e-b31c-4ae3-b86f-fafa156ae103" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/133f2558-bfa1-47d5-b208-8cf3d44b2b3e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/614e95f7-2dc9-4e8b-a69c-9ba15d4d995e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3201d33b-4ada-4723-83c8-705efd262e9d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4a32a5-8b57-4fee-b2aa-53dc96eaae21" />
 
 
 
