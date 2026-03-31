@@ -1,4 +1,4 @@
-## TASK5
+## TASK6
 Stashing Changes for Context Switching
 
 ## REQUIREMENTS
@@ -70,7 +70,10 @@ Use git stash list to see all stashes.
 Use git stash drop or git stash clear to remove stashes when no longer needed.
 
 ## SCREENSHOTS
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ce8761b-2d4f-417d-a7c2-bb046a5383a8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99342e2d-7599-4fe8-94e4-f397ebd86beb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d6bb0e5-a55c-4d95-bb9e-b1a878b7e2f4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/279e4f6b-ceac-4dcd-a4bf-a21ca2dde2a2" />
 
 
 
