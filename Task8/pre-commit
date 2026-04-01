@@ -1,19 +1,11 @@
 #!/bin/sh
-# Pre-commit hook to block commits if Task8/script.js has console.log
+# Call your pre-commit Node script inside Task8
+node Task8/pre-commit.js
 
-FILE="Task8/script.js"
-
-# Check if file exists
-if [ ! -f "$FILE" ]; then
-  echo "$FILE not found. Skipping pre-commit check."
-  exit 0
+# Abort commit if Node script fails
+if [ $? -ne 0 ]; then
+  echo "Pre-commit check failed! Commit aborted."
+  exit 1
 fi
 
-# Search for console.log
-if grep -q "console.log" "$FILE"; then
-  echo "Error: Remove console.log statements from $FILE before committing!"
-  exit 1  # Block commit
-fi
-
-echo "$FILE passed pre-commit checks! Commit allowed."
-exit 0  # Allow commit
+exit 0

@@ -1,5 +1,5 @@
+console.log("This should block commit");
 async function search() {
-    console.log("test");
     let city = document.getElementById("city").value;
     if(city===""){
         alert("Enter City");
