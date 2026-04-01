@@ -1,0 +1,11 @@
+#!/bin/sh
+# Run Node script for pre-commit checks
+node Task8/pre-commit.js
+
+# Abort commit if Node script fails
+if [ $? -ne 0 ]; then
+  echo "Pre-commit check failed! Commit aborted."
+  exit 1
+fi
+
+exit 0
