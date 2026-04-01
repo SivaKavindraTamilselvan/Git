@@ -1,11 +1,12 @@
-## TASK9
-Working with Remote Repositories and Collaboration
+## TASK10
+Comprehensive Workflow with Forced Pushes and Recovery
 
 ## REQUIREMENTS
-- Create two branches with distinct commits.
-- Identify a commit on one branch that you want to apply to the other.
-- Use `git cherry-pick <commit-hash>` to apply the commit and handle any conflicts if they arise.
-- Verify the commit history to ensure the cherry-picked commit is present.
+- Create a repository with multiple branches representing features, bug fixes, and releases.
+- Simulate a scenario where a forced push (`git push --force`) is required (e.g., after rewriting history with interactive rebase).
+- Use `git reflog` to locate and recover lost commits after a mistaken force push.
+- Document each step, explaining how and why forced pushes should be handled with care.
+- Discuss best practices for collaborating with teams when rewriting history and using force pushes.
 
 ## TECHNOLOGIES USED
 GIT
@@ -117,6 +118,17 @@ Simulated commit loss
 Recovered using reflog
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae28fb59-686c-4505-b362-95fe67019c81" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcaae3cf-28ea-4f1b-ad9b-0815a05c1a40" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56a3b609-180e-43d0-926f-8ab3abc18681" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7a33fc5-2151-4877-b6ec-302f06116293" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46d015f3-60ec-4c7f-b5f0-9bc6d12f694b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/723d2970-7157-4477-837b-848244c92f54" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c426cc71-e935-4eee-b541-8ec67fbe317f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/431ffff4-3c46-4a8c-aa3e-6f6f865d1754" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d13e4fba-0a78-4683-826a-4fe61359aaee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1966c07-1b44-4a3f-bb27-129f29ebdc64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0212db81-0191-423d-9743-cc2cd24a1a2d" />
 
 
 
