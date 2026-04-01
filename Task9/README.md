@@ -1,5 +1,5 @@
-## TASK7
-Cherry-Picking Commits Between Branches
+## TASK9
+Working with Remote Repositories and Collaboration
 
 ## REQUIREMENTS
 - Create two branches with distinct commits.
@@ -101,6 +101,11 @@ git checkout main
 git pull origin main
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/003424b2-01be-4a3d-8ce6-b9af13365970" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a563ab2-0b07-4f9a-abc0-e935fa7ee4c7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3f9f3fe-3eab-41cc-a5c0-5fce2be081fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ef88813-d754-4054-b019-d4f3443bdb9f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ef2934c-8201-43a1-99c5-12d83be1b9cf" />
 
 
 
