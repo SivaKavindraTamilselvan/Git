@@ -81,6 +81,13 @@ Resolved conflicts manually in case of overlapping changes.
 Verified the history to ensure commits are correctly applied.
 
 ## SCREENSHOTS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/393a9802-02c8-47a1-94a8-e7d91c928a5a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3e6c28e-5a7a-4d00-8d1a-c92cde1da63f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38cca246-2015-4ba4-bd0e-a0c544d53e14" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f88534af-1210-4f70-9e5e-aea3a124acfb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7db5f8d-fad4-487c-bea2-bb4520c2a17e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be0f278b-16a4-4f06-b936-c44da030d891" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60748866-85ef-4203-90cf-f1f8c6e23fe0" />
 
 
 
